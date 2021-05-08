@@ -74,7 +74,8 @@ disqusShortname = "yashgarg1232"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/upagge/ublogger"
+        #url = "https://github.com/upagge/ublogger"
+        url = "https://github.com/yashgarg1232/uBlogger"
         title = "GitHub"
         weight = 6
     [languages.en.params]
