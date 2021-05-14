@@ -1,0 +1,54 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yash on Yash</title><link>https://yashgarg1232.github.io/</link><description>Recent content in Yash on Yash</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 02 May 2021 09:52:22 -0400</lastBuildDate><atom:link href="https://yashgarg1232.github.io/" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://yashgarg1232.github.io/research/</link><pubDate>Sat, 08 May 2021 14:51:32 -0400</pubDate><guid>https://yashgarg1232.github.io/research/</guid><description>&lt;h1 id="bio">Bio&lt;/h1>
+&lt;p>My main research interest lies at the intersection of machine learning and deep
+learning for multi-variate time series analytics. My focus is on developing
+novel algorithms that extracts insights from the data using machine learning
+techniques which [insights] are then used to train highly-accurate deep learning
+models.&lt;/p>
+&lt;h1 id="publications">Publications&lt;/h1>
+&lt;p>
+&lt;i class="fas fa-graduation-cap ">
+&lt;link href="https://yashgarg1232.github.io/fa.5.15.3/css/all.min.css" rel="stylesheet">
+&lt;/i>
+&lt;a href="https://scholar.google.com/citations?user=SCfJmDcAAAAJ&amp;amp;hl=en&amp;amp;oi=ao">Scholar&lt;/a>&lt;/p>
+&lt;p>&lt;strong>JOURNAL&lt;/strong>
+&lt;br>
+[J2] DataStorm: Coupled, Continuous Simulations for Complex Urban Environment, TDS, 2021 ^
+&lt;br>
+[J1] DataStorm-FE: A Data and Devision-Flow and coordination Engine for Coupled Simulation Ensembles, P-VLDB 2018&lt;/p>
+&lt;p>&lt;strong>CONFERENCES&lt;/strong>
+&lt;br>
+[C6] XM2A: Multi-Scale Multi-Head Attention with Cross-Talk, MIPR 2021 *
+&lt;br>
+[C5] SDMA: Saliency-Driven Mutual Cross Attention, ICPR 2021 *
+&lt;br>
+[C4] SAN: Scale-Space Attention Network, ICDE 2020 *
+&lt;br>
+[C3] iSparse: Output Informed Sparsification of Neural Networks, ICMR 2020 *
+&lt;br>
+[C2] RACKNet: Robust Allocation of Convolutional Kernels in Neural Networks, ICMR 2019 *
+&lt;br>
+[C1] On the Effectiveness of Distance Measures for for Similarity Search in Mutli-Variate
+Sensory Data, ICMR 2017 ^&lt;/p>
+&lt;p>&lt;strong>DEMOS&lt;/strong>
+&lt;br>
+[D1] SIMDMS:Data Management and Analysis to Support Decision Making Through Large
+Simulation Ensembles, EDBT 2017 ^&lt;/p>
+&lt;p>&lt;strong>WORKSHOPS&lt;/strong>
+&lt;br>
+[W2] Load-Adaptive Continuous Coupled-Simulation Ensembles with DataStorm and Chameleon, CC 2019 ^
+&lt;br>
+[W1] NOTES2: Network-of-Traces for Epidemic Spread Simulations, AAAI Workshop, 2015&lt;/p>
+&lt;p>&lt;strong>THESIS/DISSERTATION&lt;/strong>
+&lt;br>
+[T2] On Feature Saliency and Deep Neural Networks, Ph.D. Dissertation, ASU 2020 *
+&lt;br>
+[T1] Multi-Variate Time Series Similarity Measures and their Robustness Against Temporal Asynchrony, MS Thesis, ASU 2015 *&lt;/p>
+&lt;hr>
+&lt;p>First Author *&lt;br>
+Equal Contribution ^&lt;/p></description></item><item><title>About</title><link>https://yashgarg1232.github.io/about/</link><pubDate>Sun, 02 May 2021 09:52:22 -0400</pubDate><guid>https://yashgarg1232.github.io/about/</guid><description>&lt;p>Welcome to the home page of Yash Garg.&lt;/p>
+&lt;h1 id="education">Education&lt;/h1>
+&lt;p>I earned my PhD (2020) and MS (2015) in Computer Science from Arizona State University, Tempe, AZ. I have earned my BE (2013) in Computer Science from Rajiv Gandhi Technical University, Bhopal, MP, India.
+&lt;br>
+My research lies at the intersection of deep feature learning and local feature engineering with a focus on discovering and leveraging feature saliency through localized feature extraction, deep feature learning (hyper-parameter search, network sparsification, and attention networks) with key application in multi-variate time series analysis (&lt;a href="https://yashgarg1232.github.io/research/">More&lt;/a>).&lt;/p>
+&lt;h1 id="work">Work&lt;/h1>
+&lt;p>I am currently working as a Machine Learning Researcher (Member of Technical Staff) at Nokia Bell Labs in the Artificial Intelligence Research Labs (AIRLab). Previously, I interned as a Data Scientist at Bell Labs, where I worked on automated representation learning for streaming data, and at Eaton Corporation, where I worked on extremely high-dimensional time series forecasting on real-world IoT networks (&lt;a href="https://www.linkedin.com/in/yashgarg1232?utm_source=homepage">LinkedIn&lt;/a>).&lt;/p></description></item><item><title>Posts</title><link>https://yashgarg1232.github.io/posts/</link><pubDate>Sun, 02 May 2021 09:52:22 -0400</pubDate><guid>https://yashgarg1232.github.io/posts/</guid><description/></item></channel></rss>
