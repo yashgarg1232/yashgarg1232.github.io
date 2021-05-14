@@ -1,232 +1,193 @@
 baseURL = "https://yashgarg1232.github.io"
-languageCode = "en-us"
+languageCode = "en"
+defaultContentLanguage = "en"
 title = "Yash"
-theme = "ublogger"
+theme = "keepit"
+
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = "UA-103804023-1"
 disqusShortname = "yashgarg1232"
-[languages]
-  [languages.en]
-    weight = 1
-    # language code
-    languageCode = "en"
-    # language name
-    languageName = "English"
-    # whether to include Chinese/Japanese/Korean
-    hasCJKLanguage = false
-    # default amount of posts in each pages
-    paginate = 12
-    # copyright description used only for seo schema
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-    # Menu config
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "About"
-        url = "/about/"
-        title = "About Yash"
-        weight = 1
-      [[languages.en.menu.main]]
-        identifier = "research"
-        pre = ""
-        post = ""
-        name = "Research"
-        url = "/research/"
-        title = "Research Profile"
-        weight = 2
-      [[languages.en.menu.main]]
-        identifier = "posts"
-        # you can add extra information before the name (HTML format is supported), such as icons
-        pre = ""
-        # you can add extra information after the name (HTML format is supported), such as icons
-        post = ""
-        name = "Posts"
-        url = "/posts/"
-        # title will be shown when you hover on this menu link.
-        title = ""
-        weight = 3
-      # [[languages.en.menu.main]]
-      #   identifier = "tags"
-      #   pre = ""
-      #   post = ""
-      #   name = "Tags"
-      #   url = "/tags/"
-      #   title = ""
-      #   weight = 2
-      # [[languages.en.menu.main]]
-      #   identifier = "categories"
-      #   pre = ""
-      #   post = ""
-      #   name = "Categories"
-      #   url = "/categories/"
-      #   title = ""
-      #   weight = 3
-      # [[languages.en.menu.main]]
-      #   identifier = "documentation"
-      #   pre = ""
-      #   post = ""
-      #   name = "Docs"
-      #   url = "/categories/documentation/"
-      #   title = ""
-      #   weight = 4
-      [[languages.en.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/upagge/ublogger"
-        #url = "https://github.com/yashgarg1232/uBlogger"
-        title = "GitHub"
-        weight = 6
-    [languages.en.params]
-      # site description
-      description = "About uBlogger Theme"
-      # site keywords
-      keywords = ["Theme", "Hugo"]
-      # App icon config
-      [languages.en.params.app]
-        # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "uBlogger"
-        # whether to omit favicon resource links
-        noFavicon = false
-        # modern SVG favicon to use in place of older style .png and .ico files
-        svgFavicon = ""
-        # Android browser theme color
-        themeColor = "#ffffff"
-        # Safari mask icon color
-        iconColor = "#5bbad5"
-        # Windows v8-10 tile color
-        tileColor = "#da532c"
-      # Search config
-      [languages.en.params.search]
-        enable = true
-        # type of search engine ("lunr", "algolia")
-        type = "algolia"
-        # max index length of the chunked content
-        contentLength = 4000
-        # placeholder of the search bar
-        placeholder = ""
-        # max number of results length
-        maxResultLength = 10
-        # snippet length of the result
-        snippetLength = 30
-        # HTML tag name of the highlight part in results
-        highlightTag = "em"
-        # whether to use the absolute URL based on the baseURL in search index
-        absoluteURL = false
-        [languages.en.params.search.algolia]
-          index = "index.en"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
-      # Home page config
-      [languages.en.params.home]
-        # amount of RSS pages
-        rss = 10
-        # Home page profile
-        [languages.en.params.home.profile]
-          enable = true
-          # Gravatar Email for preferred avatar in home page
-          gravatarEmail = ""
-          # URL of avatar shown in home page
-          avatarURL = "/images/avatar.jpg"
-          # title shown in home page (HTML format is supported)
-          title = "Yash Garg | Homepage"
-          # subtitle shown in home page (HTML format is supported)
-          subtitle = "Machine Learning Researcher"
-          # whether to show social links
-          social = true
-          # disclaimer (HTML format is supported)
-          disclaimer = ""
-        # Home page posts
-        [languages.en.params.home.posts]
-          enable = true
-          # special amount of posts in each home posts page
-          paginate = 6
-      # Social config in home page
-      [languages.en.params.social]
-        GitHub = "yashgarg1232"
-        Linkedin = "yashgarg1232"
-        Twitter = ""
-        Instagram = "yashgarg1232"
-        Facebook = ""
-        Telegram = ""
-        Medium = "@yashgarg1232"
-        Gitlab = ""
-        Youtubelegacy = ""
-        Youtubecustom = ""
-        Youtubechannel = "UC3uwzbjP9WukIGvB1nDa2iQ"
-        Tumblr = ""
-        Quora = ""
-        Keybase = ""
-        Pinterest = ""
-        Reddit = ""
-        Codepen = ""
-        FreeCodeCamp = ""
-        Bitbucket = ""
-        Stackoverflow = ""
-        Weibo = ""
-        Odnoklassniki = ""
-        VK = ""
-        Flickr = ""
-        Xing = ""
-        Snapchat = ""
-        Soundcloud = ""
-        Spotify = ""
-        Bandcamp = ""
-        Paypal = ""
-        Fivehundredpx = ""
-        Mix = ""
-        Goodreads = ""
-        Lastfm = ""
-        Foursquare = ""
-        Hackernews = ""
-        Kickstarter = ""
-        Patreon = ""
-        Steam = ""
-        Twitch = ""
-        Strava = ""
-        Skype = ""
-        Whatsapp = ""
-        Zhihu = ""
-        Douban = ""
-        Angellist = ""
-        Slidershare = ""
-        Jsfiddle = ""
-        Deviantart = ""
-        Behance = ""
-        Dribbble = ""
-        Wordpress = ""
-        Vine = ""
-        Googlescholar = "https://scholar.google.com/citations?user=SCfJmDcAAAAJ"
-        Researchgate = ""
-        Thingiverse = ""
-        Devto = ""
-        Gitea = ""
-        XMPP = ""
-        Matrix = ""
-        Bilibili = ""
-        Email = ""
-        DockerHub = ""
-        Discord = ""
-        Leanpub = ""
-        Udemy = ""
-        RSS = false
-[params]
-  version = "2.0.X"
-  [params.comment]
-    enable = true
-  [params.analytics]
-    enable = true
-    # Google Analytics
-    [params.analytics.google]
-      # [UA-XXXXXXXX-X] google analytics code
-      # [UA-XXXXXXXX-X] 谷歌分析代号
-      id = "UA-103804023-1"
-      # whether to use gtag linked
-      # 是否使用gtag链接
-      gtag = true
-      # whether to anonymize IP
-      # 是否匿名化用户 IP
-      anonymizeIP = true
+
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
 [Permalinks]
-  posts = ":year/:month/:filename"
+ posts = "/:year/:filename/"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+[params]
+    since = 2012
+    author = "Yash Garg"               # Author's name
+    subtitle = "Machine Learning Researcher at Nokia Bell Labs"       # Subtitle
+    cdn_url = ""           # Base CDN URL
+    home_mode = "other" # post or other
+    dateFormatToUse = "January 2, 2006" # set date format, default "2 January 2006"
+
+    google_verification = ""
+    bing_verification = ""
+    yandex_verification = ""
+    pinterest_verification = ""
+    baidu_verification = ""
+
+    avatar = "/images/avatar.jpg" #comment it to use gravatar
+    socialShare = true
+
+    description = "" # site description
+    keywords = "" # site keywords
+
+    license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+[params.gravatar]
+    #email = "example@gmail.com"   #uncomment and insert your email address to use gravatar
+
+
+[params.social]
+    GitHub = "yashgarg1232"
+    Linkedin = "yashgarg1232"
+    #Twitter = "xxxx"
+    #Instagram = "xxxx"
+    #Email   = "xxxx"
+    #Facebook = "xxxx"
+    #Telegram = "xxxx"
+    Medium = "@yashgarg1232"
+    #Gitlab = "xxxx"
+    #Youtubelegacy = "xxxx"
+    #Youtubecustom = "xxxx"
+    #Youtubechannel = "xxxx"
+    #Tumblr ="xxxx"
+    #Quora = "xxxx"
+    #Keybase = "xxxx"
+    #Pinterest = "xxxx"
+    #Reddit = "xxxx"
+    #Codepen = "xxxx"
+    #Bitbucket = "xxxx"
+    Stackoverflow = "2962001"
+    #Weibo = "xxxx"
+    #Odnoklassniki = "xxxx"
+    #VKontakte = "xxxx"
+    #Flickr = "xxxx"
+    #Xing = "xxxx"
+    #Snapchat = "xxxx"
+    #Soundcloud = "xxxx"
+    #Spotify = "xxxx"
+    #Bandcamp = "xxxx"
+    #Paypal = "xxxx"
+    #Fivehundredpx = "xxxx"
+    #Mix = "xxxx"
+    #Goodreads = "xxxx"
+    #Lastfm = "xxxx"
+    #Foursquare = "xxxx"
+    #Hackernews = "xxxx"
+    #Kickstarter = "xxxx"
+    #Patreon = "xxxx"
+    #Steam = "xxxx"
+    #Twitch = "xxxx"
+    #Strava = "xxxx"
+    #Skype = "xxxx"
+    #Whatsapp = "xxxx"
+    #Zhihu = "xxxx"
+    #Douban = "xxxx"
+    #Angellist = "xxxx"
+    #Slidershare = "xxxx"
+    #Jsfiddle = "xxxx"
+    #Deviantart = "xxxx"
+    #Behance = "xxxx"
+    #Dribble = "xxxx"
+    #Wordpress = "xxxx"
+    #Vine = "xxxx"
+    Googlescholar = "SCfJmDcAAAAJ"
+    #Researchgate = "xxxx"
+    #Mastodon = "xxxx"
+    #Thingiverse = "xxxx"
+
+[params.share]
+Twitter = false
+Facebook = false
+Stackoverflow = true
+#Reddit = true
+Medium = true
+Linkedin = true
+#Pinterest = true
+#HackerNews = true
+#Mix = true
+#Tumblr = true
+#VKontakte = true
+#Douban = true
+#Weibo = true
+Googlescholar = true
+
+# Used only for Seo schema
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+[author]
+  name = "Yash Garg"
+
+  [params.publisher]
+    name = "Yash Garg"
+
+    [params.publisher.logo]
+      url = "logo.png"
+      width = 127
+      height = 40
+
+  [params.logo]
+    url = "logo.png"
+    width = 127
+    height = 40
+
+  [params.image]
+    url = "cover.png"
+    width = 800
+    height = 600
+
+[params.gitalk]
+owner = ""       # Your GitHub ID
+repo = ""        # The repo to store comments
+clientId = ""    # Your client ID
+clientSecret = "" # Your client secret
+
+[params.valine]
+  enable = false
+  language = 'en'
+  appId = 'your appId'
+  appKey = 'your appKey'
+  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = false # Verification code
+  avatar = 'mm'
+  placeholder = 'your comments ...'
+  visitor = true
+
+[params.utterances]       # https://utteranc.es/
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+
+[params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+    clientId = ""           # Your client ID
+    clientSecret = ""       # Your client secret
