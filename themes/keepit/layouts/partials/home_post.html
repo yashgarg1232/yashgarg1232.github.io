@@ -1,5 +1,4 @@
 {{ $cdn_url := .Scratch.Get "cdn_url" }}
-
 <div class="post-warp">
     <div class="intro">
         {{ with .Site.Params.avatar}}
@@ -21,7 +20,10 @@
             {{ . }}
         </h2>
         {{ end }}
+        <div class="social-links">
+          {{ partial "social.html" . }}
 
+        </div>
     </div>
     {{ range (.Paginate .Pages).Pages }}
     <article class="post" itemscope itemscope="" itemtype="http://schema.org/Article">
