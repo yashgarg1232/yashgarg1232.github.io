@@ -3,7 +3,7 @@ title: "Welcome"
 date: 2021-05-02T09:52:22-04:00
 draft: false
 decription: Welcome blog post to introduce the website and the host
-tag: ["about", "update"]
+tags: ["about", "update"]
 ---
 
 Welcome to my homepage. On this site, I share latest updates on me and my work.

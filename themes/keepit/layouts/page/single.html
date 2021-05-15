@@ -1,8 +1,10 @@
 {{ define "content" }}
 <div class="post-warp archive">
-    <h2 class="post-title" style="text-align:right;padding-bottom:2em">{{ .Title }}</h2>
+    <h2 class="post-title" style="text-align:left;">{{ .Title }}</h2>
     <div class="post-content">
         {{ .Content }}
     </div>
+    <!-- layouts/blog/single.html -->
+    {{ partial "tags.html" .}}
 </div>
 {{end }}

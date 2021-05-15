@@ -1,14 +1,14 @@
-baseURL = "https://yashgarg1232.github.io/"
+baseURL = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Yash Garg"
-theme = "keepit"
+title = "KeepIt"
+theme = "KeepIt"
 
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = "UA-103804023-1"
-disqusShortname = "yashgarg1232"
+googleAnalytics = ""
+disqusShortname = "yourdiscussshortname"
 
 [sitemap]
   changefreq = "monthly"
@@ -21,34 +21,31 @@ disqusShortname = "yashgarg1232"
   noreferrerLinks = true
 
 [Permalinks]
- posts = "/:year/:month/:filename/"
+ posts = "/:year/:filename/"
 
 [menu]
   [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 1
-  [[menu.main]]
     name = "Blog"
     url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
     weight = 3
 
   [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 2
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "About"
+    url = "/about"
     weight = 4
 
 [params]
     since = 2012
-    author = "Yash Garg"               # Author's name
-    subtitle = "Machine Learning Researcher at Nokia Bell Labs"       # Subtitle
+    author = "Fastbyte01"               # Author's name
+    subtitle = "A Hugo theme"       # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "post" # post or other
-    dateFormatToUse = "January 2, 2006" # set date format, default "2 January 2006"
+    home_mode = "" # post or other
+    dateFormatToUse = "" # set date format, default "2 January 2006"
 
     google_verification = ""
     bing_verification = ""
@@ -56,7 +53,7 @@ disqusShortname = "yashgarg1232"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "/images/avatar.jpg" #comment it to use gravatar
+    avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
@@ -69,14 +66,14 @@ disqusShortname = "yashgarg1232"
 
 
 [params.social]
-    GitHub = "yashgarg1232"
-    Linkedin = "yashgarg1232"
-    #Twitter = "xxxx"
+    GitHub = "xxxx"
+    Linkedin = "xxxx"
+    Twitter = "xxxx"
     #Instagram = "xxxx"
     #Email   = "xxxx"
-    #Facebook = "xxxx"
+    Facebook = "xxxx"
     #Telegram = "xxxx"
-    Medium = "@yashgarg1232"
+    #Medium = "xxxx"
     #Gitlab = "xxxx"
     #Youtubelegacy = "xxxx"
     #Youtubecustom = "xxxx"
@@ -88,7 +85,7 @@ disqusShortname = "yashgarg1232"
     #Reddit = "xxxx"
     #Codepen = "xxxx"
     #Bitbucket = "xxxx"
-    Stackoverflow = "2962001"
+    #Stackoverflow = "xxxxx"
     #Weibo = "xxxx"
     #Odnoklassniki = "xxxx"
     #VKontakte = "xxxx"
@@ -122,17 +119,15 @@ disqusShortname = "yashgarg1232"
     #Dribble = "xxxx"
     #Wordpress = "xxxx"
     #Vine = "xxxx"
-    Googlescholar = "SCfJmDcAAAAJ"
+    #Googlescholar = "xxxx"
     #Researchgate = "xxxx"
     #Mastodon = "xxxx"
     #Thingiverse = "xxxx"
 
 [params.share]
-Twitter = false
-Facebook = false
-Stackoverflow = true
+Twitter = true
+Facebook = true
 #Reddit = true
-Medium = true
 Linkedin = true
 #Pinterest = true
 #HackerNews = true
@@ -141,16 +136,15 @@ Linkedin = true
 #VKontakte = true
 #Douban = true
 #Weibo = true
-Googlescholar = true
 
 # Used only for Seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Yash Garg"
+  name = "Fastbyte01"
 
   [params.publisher]
-    name = "Yash Garg"
+    name = "Fastbyte01"
 
     [params.publisher.logo]
       url = "logo.png"
