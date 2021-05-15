@@ -47,7 +47,7 @@
                     <time datetime={{.Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
                         itemprop="datePublished">{{ .Date.Format (.Site.Params.dateFormatToUse | default "2 January 2006") }}</time>
                 </span>
-                in
+                <!-- {{ i18n "by" }} {{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}-->
                 {{ with .Params.categories -}}
                 <i class="iconfont icon-folder"></i>
                 <span class="post-category">
