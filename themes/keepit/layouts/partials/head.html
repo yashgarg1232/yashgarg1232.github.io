@@ -37,6 +37,7 @@
   {{ end }}
   {{- template "_internal/twitter_cards.html" . }}
   {{ partial "seo_schema.html" . }}
+  {{ partial "mathjax.html" . }}
 </head>
 {{ $cdn_url := ""}}
   {{ if eq ( getenv "HUGO_ENV" ) "production" }}
