@@ -16,7 +16,9 @@ models.
 
 **JOURNAL**
 \
-[J2] DataStorm: Coupled, Continuous Simulations for Complex Urban Environment, TDS, 2021 ^
+[J3] Selego: Robust Variate Selection for Accurate Time Series Forecasting, ECML-PKDD 2021
+\
+[J2] DataStorm: Coupled, Continuous Simulations for Complex Urban Environment, TDS 2021 ^
 \
 [J1] DataStorm-FE: A Data and Devision-Flow and coordination Engine for Coupled Simulation Ensembles, P-VLDB 2018
 
