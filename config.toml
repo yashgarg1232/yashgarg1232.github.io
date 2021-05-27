@@ -1,6 +1,7 @@
 baseURL = "https://yashgarg1232.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
+disablePathToLower = true
 title = "Yash Garg"
 theme = "keepit"
 
@@ -41,7 +42,10 @@ disqusShortname = "yashgarg1232"
     name = "Tags"
     url = "/tags/"
     weight = 4
-
+  [[menu.main]]
+    name = "Resume"
+    url = "/files/Yash_Garg_Resume.pdf"
+    weight = 4
 [params]
     since = 2012
     author = "Yash Garg"               # Author's name

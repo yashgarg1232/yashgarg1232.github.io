@@ -14,3 +14,5 @@ My research lies at the intersection of deep feature learning and local feature 
 
 # Work
 I am currently working as a Machine Learning Researcher (Member of Technical Staff) at Nokia Bell Labs in the Artificial Intelligence Research Labs (AIRLab). Previously, I interned as a Data Scientist at Bell Labs, where I worked on automated representation learning for streaming data, and at Eaton Corporation, where I worked on extremely high-dimensional time series forecasting on real-world IoT networks ([LinkedIn](https://www.linkedin.com/in/yashgarg1232?utm_source=homepage)).
+\
+[Resume](/files/Yash_Garg_Resume.pdf)
