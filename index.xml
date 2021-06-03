@@ -1,10 +1,10 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yash Garg on Yash Garg</title><link>https://yashgarg1232.github.io/</link><description>Recent content in Yash Garg on Yash Garg</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 02 May 2021 09:52:22 -0400</lastBuildDate><atom:link href="https://yashgarg1232.github.io/" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://yashgarg1232.github.io/research/</link><pubDate>Sat, 08 May 2021 14:51:32 -0400</pubDate><guid>https://yashgarg1232.github.io/research/</guid><description>&lt;h1 id="bio">Bio&lt;/h1>
-&lt;p>My main research interest lies at the intersection of machine learning and deep
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yash Garg on Yash Garg</title><link>https://yashgarg1232.github.io/</link><description>Recent content in Yash Garg on Yash Garg</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 02 May 2021 09:52:22 -0400</lastBuildDate><atom:link href="https://yashgarg1232.github.io/" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://yashgarg1232.github.io/research/</link><pubDate>Sat, 08 May 2021 14:51:32 -0400</pubDate><guid>https://yashgarg1232.github.io/research/</guid><description>&lt;p>My main research interest lies at the intersection of machine learning and deep
 learning for multi-variate time series analytics. My focus is on developing
 novel algorithms that extracts insights from the data using machine learning
 techniques which [insights] are then used to train highly-accurate deep learning
 models.&lt;/p>
 &lt;h1 id="publications">Publications&lt;/h1>
+&lt;hr>
 &lt;p>
 &lt;i class="fas fa-graduation-cap ">
 &lt;link href="https://yashgarg1232.github.io/fa.5.15.3/css/all.min.css" rel="stylesheet">
@@ -24,29 +24,29 @@ Equal Contribution |
 ACM Grant | Reverse Chronological Order&lt;/p>
 &lt;p>&lt;strong>CONFERENCES&lt;/strong>
 &lt;br>
-[C6] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, &amp;ldquo;&lt;em>XM2A: Multi-Scale Multi-Head Attention with Cross-Talk&lt;/em>&amp;rdquo;, Internation Conference on Multimedia Information Processing and Retrieval, 2021
+[C6] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, &amp;ldquo;&lt;em>XM2A: Multi-Scale Multi-Head Attention with Cross-Talk&lt;/em>&amp;rdquo;, Internation Conference on Multimedia Information Processing and Retrieval (MIPR), 2021
 &lt;i class="fas fa-star ">
 &lt;/i>
 &lt;br>
-[C5] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, &amp;ldquo;&lt;em>SDMA: Saliency-Driven Mutual Cross Attention&lt;/em>&amp;rdquo;, International Conference on Pattern Recognition, 2021
+[C5] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, &amp;ldquo;&lt;em>SDMA: Saliency-Driven Mutual Cross Attention&lt;/em>&amp;rdquo;, International Conference on Pattern Recognition (ICPR), 2021
 &lt;i class="fas fa-star ">
 &lt;/i>
 &lt;br>
-[C4] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, Maria Luisa Sapino, &amp;ldquo;&lt;em>SAN: Scale-Space Attention Network&lt;/em>&amp;rdquo;, International Conference on Data Engineering, 2020
+[C4] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, Maria Luisa Sapino, &amp;ldquo;&lt;em>SAN: Scale-Space Attention Network&lt;/em>&amp;rdquo;, International Conference on Data Engineering (ICDE), 2020
 &lt;i class="fas fa-star ">
 &lt;/i>
 &lt;br>
-[C3] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, &amp;ldquo;&lt;em>iSparse: Output Informed Sparsification of Neural Networks&lt;/em>&amp;rdquo;, International Conference on Multimedia Retrieval, 2020
+[C3] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, &amp;ldquo;&lt;em>iSparse: Output Informed Sparsification of Neural Networks&lt;/em>&amp;rdquo;, International Conference on Multimedia Retrieval (ICMR), 2020
 &lt;i class="fas fa-star ">
 &lt;/i>
 &lt;br>
-[C2] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, &amp;ldquo;&lt;em>RACKNet: Robust Allocation of Convolutional Kernels in Neural Networks&lt;/em>&amp;rdquo;, International Conference on Multimedia Retrieval 2019
+[C2] &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, &amp;ldquo;&lt;em>RACKNet: Robust Allocation of Convolutional Kernels in Neural Networks&lt;/em>&amp;rdquo;, International Conference on Multimedia Retrieval (ICMR), 2019
 &lt;i class="fas fa-star ">
 &lt;/i>
 &lt;i class="fas fa-trophy ">
 &lt;/i>
 &lt;br>
-[C1] &lt;strong>Yash Garg&lt;/strong>, Silvestro Roberto Poccia, &amp;ldquo;&lt;em>On the Effectiveness of Distance Measures for for Similarity Search in Mutli-Variate Sensory Data&lt;/em>&amp;rdquo;, International Conference on Multimedia Retrieval 2017
+[C1] &lt;strong>Yash Garg&lt;/strong>, Silvestro Roberto Poccia, &amp;ldquo;&lt;em>On the Effectiveness of Distance Measures for for Similarity Search in Mutli-Variate Sensory Data&lt;/em>&amp;rdquo;, International Conference on Multimedia Retrieval (ICMR), 2017
 &lt;i class="fas fa-star ">
 &lt;/i>
 &lt;i class="fas fa-plus ">
@@ -56,44 +56,83 @@ ACM Grant | Reverse Chronological Order&lt;/p>
 &lt;/p>
 &lt;p>&lt;strong>JOURNAL&lt;/strong>
 &lt;br>
-[J3] Manoj Tiwaskar, &lt;strong>Yash Garg&lt;/strong>, Xinsheng Li, K. Selcuk Candan, Maria Luisa Sapino, &amp;ldquo;&lt;em>Selego: Robust Variate Selection for Accurate Time Series Forecasting&lt;/em>&amp;rdquo;, Special Issue of ECML-PKDD, Data Mining and Knowledge Discovery, 2021 -
+[J3] Manoj Tiwaskar, &lt;strong>Yash Garg&lt;/strong>, Xinsheng Li, K. Selcuk Candan, Maria Luisa Sapino, &amp;ldquo;&lt;em>Selego: Robust Variate Selection for Accurate Time Series Forecasting&lt;/em>&amp;rdquo;, Special Issue of European Conference on Machine Learning (ECML), Data Mining and Knowledge Discovery (DMKD), 2021 -
 &lt;i class="fas fa-gem ">
 &lt;/i>
 &lt;br>
-[J2] Hans Behrens, K. Selcuk Candan, Xilun Chen, &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>DataStorm: Coupled, Continuous Simulations for Complex Urban Environment&lt;/em>&amp;rdquo;, ACM Transactions of Data Science, 2021.
+[J2] Hans Behrens, K. Selcuk Candan, Xilun Chen, &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>DataStorm: Coupled, Continuous Simulations for Complex Urban Environment&lt;/em>&amp;rdquo;, ACM Transactions of Data Science (TDS), 2021.
 &lt;i class="fas fa-plus ">
 &lt;/i>
 &lt;br>
-[J1] Hans Behrens, K. Selcuk Candan, Xilun Chen, Ashish Gadkari, &lt;strong>Yash Garg&lt;/strong>, et al., &amp;ldquo;&lt;em>DataStorm-FE: A Data and Devision-Flow and coordination Engine for Coupled Simulation Ensembles&lt;/em>&amp;rdquo;, Proceedings of Very LArge Database (PVLDB), 2018
+[J1] Hans Behrens, K. Selcuk Candan, Xilun Chen, Ashish Gadkari, &lt;strong>Yash Garg&lt;/strong>, et al., &amp;ldquo;&lt;em>DataStorm-FE: A Data and Devision-Flow and coordination Engine for Coupled Simulation Ensembles&lt;/em>&amp;rdquo;, Proceedings of Very Large Database (VLDB), 2018
 &lt;i class="fas fa-gem ">
 &lt;/i>
 &lt;/p>
 &lt;p>&lt;strong>DEMOS&lt;/strong>
 &lt;br>
-[D1] Silvestro Poccia, Maria Luisa Sapino, Xilun Chen, &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>SIMDMS:Data Management and Analysis to Support Decision Making Through Large Simulation Ensembles&lt;/em>&amp;rdquo;, EDBT 2017
+[D1] Silvestro Poccia, Maria Luisa Sapino, Xilun Chen, &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>SIMDMS:Data Management and Analysis to Support Decision Making Through Large Simulation Ensembles&lt;/em>&amp;rdquo;, Extended Database Technology (EDBT), 2017
 &lt;i class="fas fa-plus ">
 &lt;/i>
 &lt;/p>
 &lt;p>&lt;strong>WORKSHOPS&lt;/strong>
 &lt;br>
-[W2] Hans Behrens, Mao-Lin Li, Ashish Gadkari, &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>Load-Adaptive Continuous Coupled-Simulation Ensembles with DataStorm and Chameleon&lt;/em>&amp;rdquo;, Chameleon Cloud, 2019
+[W2] Hans Behrens, Mao-Lin Li, Ashish Gadkari, &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>Load-Adaptive Continuous Coupled-Simulation Ensembles with DataStorm and Chameleon&lt;/em>&amp;rdquo;, Chameleon Cloud (CC), 2019
 &lt;i class="fas fa-plus ">
 &lt;/i>
 &lt;br>
-[W1] Sicong Liu, &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, Maria Luisa Sapino, Gerardo Chowel-Punette, &amp;ldquo;&lt;em>NOTES2: Network-of-Traces for Epidemic Spread Simulations&lt;/em>&amp;rdquo;, Association for Advances in Artifical Intelligence (AAAI) Workshop, 2015
+[W1] Sicong Liu, &lt;strong>Yash Garg&lt;/strong>, K. Selcuk Candan, Maria Luisa Sapino, Gerardo Chowel-Punette, &amp;ldquo;&lt;em>NOTES2: Network-of-Traces for Epidemic Spread Simulations&lt;/em>&amp;rdquo;, Association for Advances in Artificial Intelligence (AAAI) Workshop, 2015
 &lt;i class="fas fa-gem ">
 &lt;/i>
 &lt;/p>
 &lt;p>&lt;strong>THESIS/DISSERTATION&lt;/strong>
 &lt;br>
-[T2] &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>On Feature Saliency and Deep Neural Networks&lt;/em>&amp;rdquo;, Ph.D. Dissertation, ASU 2020
+[T2] &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>On Feature Saliency and Deep Neural Networks&lt;/em>&amp;rdquo;, Ph.D. Dissertation, Arizona State University, 2020
 &lt;i class="fas fa-star ">
 &lt;/i>
 &lt;br>
-[T1] &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>Multi-Variate Time Series Similarity Measures and their Robustness Against Temporal Asynchrony&lt;/em>&amp;rdquo;, MS Thesis, ASU 2015
+[T1] &lt;strong>Yash Garg&lt;/strong>, &amp;ldquo;&lt;em>Multi-Variate Time Series Similarity Measures and their Robustness Against Temporal Asynchrony&lt;/em>&amp;rdquo;, MS Thesis, Arizona State University (ASU), 2015
 &lt;i class="fas fa-star ">
 &lt;/i>
-&lt;/p></description></item><item><title>About</title><link>https://yashgarg1232.github.io/about/</link><pubDate>Sun, 02 May 2021 09:52:22 -0400</pubDate><guid>https://yashgarg1232.github.io/about/</guid><description>&lt;p>Welcome to the home page of Yash Garg.&lt;/p>
+&lt;/p>
+&lt;h1 id="services">Services&lt;/h1>
+&lt;hr>
+&lt;p>&lt;strong>2021&lt;/strong>&lt;br>
+Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)&lt;br>
+Program Committee, International Conference on Multimedia Retrieval (ICMR)&lt;br>
+&lt;strong>2020&lt;/strong>&lt;br>
+Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)&lt;br>
+Conference External Reviewer, Very Large Databases (VLDB)&lt;br>
+Program Committee, International Conference on Multimedia Retrieval (ICMR)&lt;br>
+Journal Reviewer, Transactions on Database Systems (TODS)&lt;br>
+Conference Reviewer, Database Systems for Advanced Applications (DASFAA)&lt;br>
+&lt;strong>2019&lt;/strong>&lt;br>
+Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)&lt;br>
+Conference External Reviewer, Extended Database Technology (EDBT)&lt;br>
+Conference Reviewer, Conference on Knowledge Management (CIKM)&lt;br>
+Program Committee, International Conference on Multimedia Retrieval (ICMR)&lt;br>
+&lt;strong>2018&lt;/strong>&lt;br>
+External Reviewer, International Conference on Data Engineering (ICDE)&lt;br>
+Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)&lt;br>
+External Reviewer, EuroPar&lt;br>
+Journal Reviewer, Transaction on Database Systems&lt;br>
+External Reviewer, SIG on Knowledge Discovery and Data Mining (SIGKDD)&lt;br>
+Conference External Reviewer, Pacific Asia Knowledge Discovery and Data Engineering (PAKDD)&lt;br>
+&lt;strong>2017&lt;/strong>&lt;br>
+Conference Reviewer, Database Systems for Advanced Applications (DASFAA)&lt;br>
+Conference External Reviewer, Database Systems for Advanced Applications (DASFAA)&lt;br>
+Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)&lt;br>
+Conference External Reviewer, Extended Database Technology (EDBT)&lt;br>
+Journal Reviewer, Transactions on Multimedia (TMM)&lt;br>
+Journal Reviewer, Transactions on Cloud Computing (TCC)&lt;br>
+&lt;strong>2016&lt;/strong>&lt;br>
+Journal Reviewer, Transactions on CLoud Computing (TCC)&lt;br>
+Conference Reviewer, ASONAM
+Conference Reviewer, Database Systems for Advanced Applications (DASFAA)&lt;br>
+Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)&lt;br>
+Journal Reviewer, Transactions on Multimedia (TMM)&lt;br>
+Conference External Reviewer, Association for Advances in Artifical Intelligence (AAAI)&lt;br>
+External Reviewer, SIG on Knowledge Discovery and Data Mining (SIGKDD)&lt;br>
+External Reviewer, SIG on Management of Data (SIGMOD)\&lt;/p></description></item><item><title>About</title><link>https://yashgarg1232.github.io/about/</link><pubDate>Sun, 02 May 2021 09:52:22 -0400</pubDate><guid>https://yashgarg1232.github.io/about/</guid><description>&lt;p>Welcome to the home page of Yash Garg.&lt;/p>
 &lt;h1 id="education">Education&lt;/h1>
 &lt;p>I earned my PhD (2020) and MS (2015) in Computer Science from Arizona State University, Tempe, AZ. I have earned my BE (2013) in Computer Science from Rajiv Gandhi Technical University, Bhopal, MP, India.
 &lt;br>
