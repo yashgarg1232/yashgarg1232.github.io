@@ -43,6 +43,10 @@ disqusShortname = "yashgarg1232"
   #  url = "/tags/"
   #  weight = 4
   [[menu.main]]
+    name = "Contact"
+    url = "https://www.linkedin.com/in/yashgarg1232"
+    weight = 3
+  [[menu.main]]
     name = "Resume"
     url = "/files/Yash_Garg_Resume.pdf"
     weight = 4
