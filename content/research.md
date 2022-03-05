@@ -41,6 +41,8 @@ models.
 
 **WORKSHOPS**
 \
+[W3] **Yash Garg**, "_ReTriM: Reconstructive Triplet Loss for Learning Reduced Embeddings for Multi-Variate Time Series_", Workshop on High Dimensional Data Mining, International Conference on Data Mining (ICDMW) 2021.
+\
 [W2] Hans Behrens, Mao-Lin Li, Ashish Gadkari, **Yash Garg**, "_Load-Adaptive Continuous Coupled-Simulation Ensembles with DataStorm and Chameleon_", Chameleon Cloud (CC), 2019 {{< fa plus >}}
 \
 [W1] Sicong Liu, **Yash Garg**, K. Selcuk Candan, Maria Luisa Sapino, Gerardo Chowel-Punette, "_NOTES2: Network-of-Traces for Epidemic Spread Simulations_", Association for Advances in Artificial Intelligence (AAAI) Workshop, 2015 {{< fa gem>}}
