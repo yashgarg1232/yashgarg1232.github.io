@@ -41,6 +41,8 @@ models.
 
 **WORKSHOPS**
 \
+[W3] **Yash Garg**, "_ReTriM: Reconstructive Triplet Loss for Learning Reduced Embeddings for Multi-Variate Time Series_", Workshop on High Dimensional Data Mining, International Conference on Data Mining (ICDMW) 2021.
+\
 [W2] Hans Behrens, Mao-Lin Li, Ashish Gadkari, **Yash Garg**, "_Load-Adaptive Continuous Coupled-Simulation Ensembles with DataStorm and Chameleon_", Chameleon Cloud (CC), 2019 {{< fa plus >}}
 \
 [W1] Sicong Liu, **Yash Garg**, K. Selcuk Candan, Maria Luisa Sapino, Gerardo Chowel-Punette, "_NOTES2: Network-of-Traces for Epidemic Spread Simulations_", Association for Advances in Artificial Intelligence (AAAI) Workshop, 2015 {{< fa gem>}}
@@ -53,23 +55,27 @@ models.
 
 # Services
 ***
+**2022**\
+Journal Reviewerm Transactions on Knowledge Discovery and Data Engineering (TKDE)\
+Program Committee, ACM International Conference on Multimedia Retrival (ICMR)\
+Program Committee, International Conference on Time Series and Forecasting (ITISE)\
 **2021**\
-Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)\
+Journal Reviewer, Transactions on Knowledge Discovery and Data Engineering (TKDE)\
 Program Committee, International Conference on Multimedia Retrieval (ICMR)\
 **2020**\
-Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)\
+Journal Reviewer, Transactions on Knowledge Discovery and Data Engineering (TKDE)\
 Conference External Reviewer, Very Large Databases (VLDB)\
 Program Committee, International Conference on Multimedia Retrieval (ICMR)\
 Journal Reviewer, Transactions on Database Systems (TODS)\
 Conference Reviewer, Database Systems for Advanced Applications (DASFAA)\
 **2019**\
-Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)\
+Journal Reviewer, Transactions on Knowledge Discovery and Data Engineering (TKDE)\
 Conference External Reviewer, Extended Database Technology (EDBT)\
 Conference Reviewer, Conference on Knowledge Management (CIKM)\
 Program Committee, International Conference on Multimedia Retrieval (ICMR)\
 **2018**\
 External Reviewer, International Conference on Data Engineering (ICDE)\
-Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)\
+Journal Reviewer, Transactions on Knowledge Discovery and Data Engineering (TKDE)\
 External Reviewer, EuroPar\
 Journal Reviewer, Transaction on Database Systems\
 External Reviewer, SIG on Knowledge Discovery and Data Mining (SIGKDD)\
@@ -77,7 +83,7 @@ Conference External Reviewer, Pacific Asia Knowledge Discovery and Data Engineer
 **2017**\
 Conference Reviewer, Database Systems for Advanced Applications (DASFAA)\
 Conference External Reviewer, Database Systems for Advanced Applications (DASFAA)\
-Journal Reviewer, Transactions of Knowledge Discovery and Data Engineering (TKDE)\
+Journal Reviewer, Transactions on Knowledge Discovery and Data Engineering (TKDE)\
 Conference External Reviewer, Extended Database Technology (EDBT)\
 Journal Reviewer, Transactions on Multimedia (TMM)\
 Journal Reviewer, Transactions on Cloud Computing (TCC)\
