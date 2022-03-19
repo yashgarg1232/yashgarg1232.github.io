@@ -10,7 +10,10 @@ enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-103804023-1"
 disqusShortname = "yashgarg1232"
-
+extensions = [
+  "laxHtmlBlocks", # laxer block handling... let's see what this does?
+  "hardLineBreak", # newlines result in line breaks
+]
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
@@ -52,7 +55,7 @@ disqusShortname = "yashgarg1232"
 [params]
     since = 2012
     author = "Yash Garg"               # Author's name
-    subtitle = "Machine Learning Researcher <br> Nokia Bell Labs"       # Subtitle
+    subtitle = "Machine Learning Researcher, Nokia Bell Labs"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "post" # post or other
     dateFormatToUse = "January 2, 2006" # set date format, default "2 January 2006"
