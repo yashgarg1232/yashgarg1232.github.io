@@ -29,15 +29,14 @@ disqusShortname = "yashgarg1232"
     name = "About"
     url = "/about"
     weight = 1
-  #[[menu.main]]
-  #  name = "Blog"
-  #  url = "/posts/"
-  #  weight = 3
-
   [[menu.main]]
     name = "Research"
     url = "/research/"
     weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
   # [[menu.main]]
   #  name = "Tags"
   #  url = "/tags/"
@@ -53,9 +52,9 @@ disqusShortname = "yashgarg1232"
 [params]
     since = 2012
     author = "Yash Garg"               # Author's name
-    subtitle = "Machine Learning Researcher at Nokia Bell Labs"       # Subtitle
+    subtitle = "Machine Learning Researcher <br> Nokia Bell Labs"       # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "other" # post or other
+    home_mode = "post" # post or other
     dateFormatToUse = "January 2, 2006" # set date format, default "2 January 2006"
 
     google_verification = ""
