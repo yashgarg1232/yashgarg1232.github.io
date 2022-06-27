@@ -19,7 +19,7 @@ models.
 [**C**] Conference [**D**] Demo [**J**] Journal [**T**] Thesis and [**W**] Workshop
 
 ---
-
+[**16-C**] M. Abdur Rahaman, **Yash Garrg**, Armin Iraj, Zening Fu, Jiayu Chen, Vince Calhoun, "_Two-Dimensional Attentive Fusion for Multi-Modal Learning of Neuroimaging and Genomics Data_", IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2022.
 [**15-W**] **Yash Garg**, "_ReTriM: Reconstructive Triplet Loss for Learning Reduced Embeddings for Multi-Variate Time Series_", Workshop on High Dimensional Data Mining, International Conference on Data Mining (ICDMW) 2021.
 \
 [**14-J**] Manoj Tiwaskar, **Yash Garg**, Xinsheng Li, K. Selcuk Candan, Maria Luisa Sapino, "_Selego: Robust Variate Selection for Accurate Time Series Forecasting_", Special Issue of European Conference on Machine Learning (ECML), Data Mining and Knowledge Discovery (DMKD), 2021 - {{< fa gem >}}
