@@ -14,7 +14,7 @@ models.
 
 ---
 
-{{< fa graduation-cap >}} [Scholar](https://scholar.google.com/citations?user=SCfJmDcAAAAJ&hl=en&oi=ao) | {{< fa star >}} First Author | {{< fa gem >}} Co-Author | {{< fa plus >}} Equal Contribution | {{< fa trophy >}} ACM Grant | Reverse Chronological Order
+{{< fa graduation-cap >}}&nbsp;&nbsp;[Scholar](https://scholar.google.com/citations?user=SCfJmDcAAAAJ&hl=en&oi=ao) | {{< fa star >}} First Author | {{< fa gem >}} Co-Author | {{< fa plus >}} Equal Contribution | {{< fa trophy >}} ACM Grant | Reverse Chronological Order
 \
 [**C**] Conference [**D**] Demo [**J**] Journal [**T**] Thesis and [**W**] Workshop
 
