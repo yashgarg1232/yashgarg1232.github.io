@@ -38,6 +38,15 @@
   {{- template "_internal/twitter_cards.html" . }}
   {{ partial "seo_schema.html" . }}
   {{ partial "mathjax.html" . }}
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5H03YL0SY7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5H03YL0SY7');
+</script>
 </head>
 {{ $cdn_url := ""}}
   {{ if eq ( getenv "HUGO_ENV" ) "production" }}
