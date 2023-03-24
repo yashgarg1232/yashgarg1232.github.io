@@ -8,9 +8,9 @@ theme = "keepit"
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = "UA-103804023-1"
+# googleAnalytics = "UA-103804023-1"
 # googleAnalytics = "250819422"
-# googleAnalytics = "G-5H03YL0SY7"
+googleAnalytics = "G-5H03YL0SY7"
 disqusShortname = "yashgarg1232"
 extensions = [
   "laxHtmlBlocks", # laxer block handling... let's see what this does?
