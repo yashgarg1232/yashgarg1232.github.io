@@ -57,7 +57,7 @@ extensions = [
 [params]
     since = 2012
     author = "Yash Garg"               # Author's name
-    subtitle = "Machine Learning Researcher, Nokia Bell Labs"       # Subtitle
+    subtitle = "Staff Data Scientist, Walmart Global Tech"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "other" # post or other
     dateFormatToUse = "January 2, 2006" # set date format, default "2 January 2006"
