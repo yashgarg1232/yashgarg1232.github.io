@@ -13,7 +13,7 @@ My research lies at the intersection of deep feature learning and local feature 
 
 # Work
 
-I am currently working as a Machine Learning Researcher (Research Scientist) as a part of Statistican and Data Science Group in Artificial Intelligence Research Lab (AIRLab) at Nokia Bell Labs and I am based on Murray Hill, New Jersey, USA. Previously, I interned as a Data Science Inters at Bell Labs, where I worked on automated representation learning for streaming data, and at Eaton Corporation, where I worked on extremely high-dimensional time series forecasting on real-world IoT networks.
+I am currently working as a Staff Data Scientist in the Emerging Tech Group in Walmart Global Tech. Previously, I was working as Machine Learning Researcher (Research Scientist) in Artificial Intelligence Research Lab (AIRLab) at Nokia Bell Labs and I am based on Murray Hill, New Jersey, USA. Previously, I interned as a Data Science Inters at Bell Labs, where I worked on automated representation learning for streaming data, and at Eaton Corporation, where I worked on extremely high-dimensional time series forecasting on real-world IoT networks.
 \
 \
 Important Links:
