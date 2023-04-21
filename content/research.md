@@ -19,7 +19,9 @@ models.
 [**C**] Conference [**D**] Demo [**J**] Journal [**T**] Thesis and [**W**] Workshop
 
 ---
-[**16-C**] M. Abdur Rahaman, **Yash Garrg**, Armin Iraj, Zening Fu, Jiayu Chen, Vince Calhoun, "_Two-Dimensional Attentive Fusion for Multi-Modal Learning of Neuroimaging and Genomics Data_", IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2022.
+[**17-C**] Haoxiang Zhang, Juliana Freire, **Yash Garg**, "_eTOP: Early Termination of Pipelines for Faster Training of AutoML Systems_", [arXiv:2304.08597]( https://arxiv.org/pdf/2304.08597.pdf) 2023.
+\
+[**16-C**] M. Abdur Rahaman, **Yash Garg**, Armin Iraj, Zening Fu, Jiayu Chen, Vince Calhoun, "_Two-Dimensional Attentive Fusion for Multi-Modal Learning of Neuroimaging and Genomics Data_", IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2022.
 \
 [**15-W**] **Yash Garg**, "_ReTriM: Reconstructive Triplet Loss for Learning Reduced Embeddings for Multi-Variate Time Series_", Workshop on High Dimensional Data Mining, International Conference on Data Mining (ICDMW) 2021.
 \
